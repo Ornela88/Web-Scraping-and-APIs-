@@ -1,0 +1,2 @@
+flight_key= '0b7cffd425mshbf932b1b5f7e633p187a96jsna5aedb4ce276' 
+weather_key= '4c6096516c608a8e259fc8fa013c8266'
